@@ -15,7 +15,7 @@ class CartoonRetriever:
     __all__ = []
     __version__ = 1.0
     __date__ = '2018-06-10'
-    __updated__ = '2018-06-10'
+    __updated__ = '2018-10-28'
     
     
     def __init__(self):
