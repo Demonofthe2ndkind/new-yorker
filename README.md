@@ -1,7 +1,7 @@
 # Project Description
 Search for and download cartoons from The New Yorker magazine cartoon gallery.
 
-# Install 
+# Installing
 ```
     python -m pip install --upgrade newyorker
 ```
